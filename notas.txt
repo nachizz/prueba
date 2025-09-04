@@ -1,2 +1,3 @@
 Estas son mis primeras notas en GitHub.
 Estoy aprendiendo paso a paso.
+Aprendí qué es un commit y cómo funciona.
